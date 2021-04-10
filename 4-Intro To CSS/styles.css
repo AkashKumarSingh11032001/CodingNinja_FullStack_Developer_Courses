@@ -11,10 +11,16 @@ h1{
 p,h1{
     font-family: sans-serif;
 }
-/* .uppercase{
+
+
+.uppercase{
     text-transform: uppercase;
 }
 
 .cursive{
+    font-family: cursive;
+}
+/* li h4{
+    text-transform: uppercase;
     font-family: cursive;
 } */
