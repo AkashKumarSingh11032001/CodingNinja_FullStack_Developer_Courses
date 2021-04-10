@@ -24,3 +24,8 @@ p,h1{
     text-transform: uppercase;
     font-family: cursive;
 } */
+
+#side-desc p{
+    color: red;
+
+}
