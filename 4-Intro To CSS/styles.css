@@ -25,7 +25,11 @@ p,h1{
     font-family: cursive;
 } */
 
-#side-desc p{
+#site-desc p{
     color: red;
 
+}
+
+#blog-title:hover{
+    color: aqua;
 }
