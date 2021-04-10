@@ -6,6 +6,7 @@ p:hover{
     color: orange;
 }
 
-#list-fir{
-    
+#list-fir, h4{
+    font-size: 35px;
+
 }
