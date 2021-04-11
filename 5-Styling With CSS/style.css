@@ -1,5 +1,25 @@
 #div-1{
     height: 200px;
     width: 200px;
+    /* height: 100vh;
+    width: 100vw; */
     background-color: black;
+
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: greenyellow; */
+
+    border: 4px solid red;
+    border-radius: 50px;
+}
+
+#div-2{
+    height: 50%; 
+    width: 50%;
+    background-color: red;
+}
+
+#text-bor{
+    font-size: xx-large;
+    border-left: 4px dashed red;
 }
