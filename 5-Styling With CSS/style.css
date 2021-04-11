@@ -39,4 +39,6 @@
     /* background-repeat: no-repeat; */
     border: 4px dashed red;
     background-position: center;
+    /* background-size: cover; */
+
 }
