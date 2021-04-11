@@ -40,5 +40,7 @@
     border: 4px dashed red;
     background-position: center;
     /* background-size: cover; */
+    /* best best best best ****** */
+    background-attachment: fixed;
 
 }
