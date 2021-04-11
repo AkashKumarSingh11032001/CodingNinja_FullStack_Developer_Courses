@@ -29,5 +29,5 @@
     font-weight: bolder;
     text-align: justify;
     line-height: 100px; /*  //line spacing */
-    
+    text-transform: capitalize;
 }
