@@ -30,4 +30,5 @@
     text-align: justify;
     line-height: 100px; /*  //line spacing */
     text-transform: capitalize;
+    text-decoration:line-through;
 }
