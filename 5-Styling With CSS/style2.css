@@ -1,0 +1,19 @@
+#div-1{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+}
+
+#div-2{
+    background-color:crimson;
+    height: 200px;
+    width: 200px;
+}
+
+span{
+    display: block;
+}
+
+/* div{
+    display: inline;
+} */
